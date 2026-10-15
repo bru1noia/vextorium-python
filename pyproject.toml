@@ -1,0 +1,22 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "vextorium"
+version = "0.1.0"
+description = "550+ pay-per-call data services for trading bots and AI agents, paid automatically in USDC on Base via x402. No API keys."
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.10"
+dependencies = ["x402[evm]>=2.25", "requests>=2.28", "eth-account>=0.10"]
+keywords = ["x402", "usdc", "base", "trading", "freqtrade", "crypto", "funding-rate", "liquidations", "ai-agents"]
+classifiers = ["Programming Language :: Python :: 3", "Topic :: Office/Business :: Financial :: Investment"]
+
+[project.optional-dependencies]
+freqtrade = ["pandas"]
+
+[project.urls]
+Homepage = "https://vextorium.com"
+Catalog = "https://api.vextorium.com/catalog.json"
+Source = "https://github.com/bru1noia/vextorium-python"

@@ -1,5 +1,7 @@
 # vextorium (Python)
 
+[![PyPI](https://img.shields.io/pypi/v/vextorium)](https://pypi.org/project/vextorium/)
+
 550+ pay-per-call data services for trading bots and AI agents: perp funding, liquidation maps, Hyperliquid
 markets and whales, market regime, prices, on-chain data on 30+ chains, DeFi, official statistics and more.
 
@@ -7,7 +9,7 @@ markets and whales, market regime, prices, on-chain data on 30+ chains, DeFi, of
 via [x402](https://x402.org) (typically $0.003–$0.01). Failed calls are not charged.
 
 ```bash
-pip install "vextorium @ git+https://github.com/bru1noia/vextorium-python"
+pip install vextorium            # or: pip install "vextorium[freqtrade]"
 ```
 
 ```python

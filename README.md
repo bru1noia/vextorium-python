@@ -1,6 +1,24 @@
-# vextorium (Python)
+<p align="center">
+  <a href="https://vextorium.com"><img src="https://raw.githubusercontent.com/bru1noia/vextorium-python/main/assets/logo.png" alt="Vextorium" width="96" height="96"></a>
+</p>
 
-[![PyPI](https://img.shields.io/pypi/v/vextorium)](https://pypi.org/project/vextorium/)
+<h1 align="center">Vextorium for Python</h1>
+
+<p align="center">
+  <b>Data your trading bot or AI agent pays for per call: no accounts, no API keys.</b><br>
+  <a href="https://vextorium.com">Website</a> ·
+  <a href="https://api.vextorium.com/catalog.json">Catalog (552 services)</a> ·
+  <a href="https://api.vextorium.com/openapi.json">OpenAPI</a> ·
+  <a href="https://github.com/bru1noia/vextorium-mcp">MCP server</a> ·
+  <a href="https://x402.org">x402</a>
+</p>
+
+<p align="center">
+  <a href="https://pypi.org/project/vextorium/"><img src="https://img.shields.io/pypi/v/vextorium" alt="PyPI"></a>
+  <img src="https://img.shields.io/pypi/pyversions/vextorium" alt="Python">
+  <img src="https://img.shields.io/badge/paid%20in-USDC%20on%20Base-00FF66" alt="USDC on Base">
+  <img src="https://img.shields.io/badge/license-MIT-blue" alt="MIT">
+</p>
 
 550+ pay-per-call data services for trading bots and AI agents: perp funding, liquidation maps, Hyperliquid
 markets and whales, market regime, prices, on-chain data on 30+ chains, DeFi, official statistics and more.

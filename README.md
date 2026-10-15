@@ -24,7 +24,7 @@
 markets and whales, market regime, prices, on-chain data on 30+ chains, DeFi, official statistics and more.
 
 **No API keys, no sign-up.** A Base wallet with a little USDC is the account; each call is paid automatically
-via [x402](https://x402.org) (typically $0.003–$0.01). Failed calls are not charged.
+via [x402](https://x402.org) (typically 0.003–0.01 USDC). Failed calls are not charged.
 
 ```bash
 pip install vextorium            # or: pip install "vextorium[freqtrade]"

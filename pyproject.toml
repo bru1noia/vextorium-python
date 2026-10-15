@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "vextorium"
-version = "0.1.1"
+version = "0.1.2"
 description = "550+ pay-per-call data services for trading bots and AI agents, paid automatically in USDC on Base via x402. No API keys."
 readme = "README.md"
 license = "MIT"

@@ -15,7 +15,7 @@ import threading
 
 import requests
 
-__version__ = "0.1.1"
+__version__ = "0.1.2"
 __all__ = ["Vextorium", "VextoriumError", "BudgetExceeded"]
 
 API = "https://api.vextorium.com"

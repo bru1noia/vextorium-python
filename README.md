@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/pypi/pyversions/vextorium" alt="Python">
   <img src="https://img.shields.io/badge/paid%20in-USDC%20on%20Base-00FF66" alt="USDC on Base">
   <img src="https://img.shields.io/badge/license-MIT-blue" alt="MIT">
+  <a href="https://api.lumitrades.io/trust/v/vextorium"><img src="https://api.lumitrades.io/badge/vextorium.svg" alt="Tested by Lumi" height="20"></a>
 </p>
 
 550+ pay-per-call data services for trading bots and AI agents: perp funding, liquidation maps, Hyperliquid
